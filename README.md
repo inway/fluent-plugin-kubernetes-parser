@@ -1,4 +1,4 @@
-# fluent-plugin-kubernetes-parser
+# fluent-plugin-kubernetes-parser [![Build & test Ruby](https://github.com/inway/fluent-plugin-kubernetes-parser/actions/workflows/ruby.yml/badge.svg)](https://github.com/inway/fluent-plugin-kubernetes-parser/actions/workflows/ruby.yml) [![Gem Version](https://badge.fury.io/rb/fluent-plugin-kubernetes-parser.svg)](https://badge.fury.io/rb/fluent-plugin-kubernetes-parser)
 
 [Fluentd](https://fluentd.org/) parser plugin to parse some Kubernetes and containerd specific log file formats.
 
