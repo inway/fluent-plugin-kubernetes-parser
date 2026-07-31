@@ -22,7 +22,7 @@ GEM
       webrick (>= 1.4.2, < 1.8.0)
       yajl-ruby (~> 1.0)
     http_parser.rb (0.8.0)
-    msgpack (1.5.2)
+    msgpack (1.8.2)
     power_assert (2.0.1)
     rake (13.0.6)
     serverengine (2.3.0)
